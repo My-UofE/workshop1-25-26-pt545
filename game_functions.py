@@ -16,7 +16,7 @@ def check_higher_lower(current_val, next_val, user_input):
         actual_compare = 'h'
     
     return actual_compare == user_input
-    #pass
+    
 
 
 # function to be used in game_3: Hangman
